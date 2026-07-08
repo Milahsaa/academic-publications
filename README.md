@@ -19,15 +19,16 @@ The purpose of this repository is to provide an overview of my published work, o
 
 ---
 
-## Publication
+# Publications
+
+## 1. International Journal of Innovative Technology and Exploring Engineering (IJITEE)
+
+**Status:** ✅ Published
 
 **Title**
 
 Classification of Microarray Data Involves Naïve Bayes and Dimension Reduction Using Haar Wavelet
 
-**Journal**
-
-International Journal of Innovative Technology and Exploring Engineering (IJITEE)
 
 **Publication Details**
 
@@ -35,9 +36,6 @@ International Journal of Innovative Technology and Exploring Engineering (IJITEE
 - Volume 8, Issue 4
 - February 2019
 
-**Status**
-
-✅ Published
 
 ---
 
