@@ -19,10 +19,6 @@ The purpose of this repository is to provide an overview of my published work, o
 
 ---
 
-# Publications
-
-# Classification of Microarray Data Using Haar Wavelet and Naïve Bayes
-
 ## Publication
 
 **Title**
